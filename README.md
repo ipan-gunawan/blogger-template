@@ -10,7 +10,7 @@ If you want to contribute to this repository, I'm open it! I appreciate for some
 ## Website Example
 This is some few websote that I have been built with this template:
 <ul style="list-style:bullet;">
-  <li><a href="https://royalbreezeuk.blogspot.com/>RoyalBreezeUk</a></li>
-  <li><a href="https://ipangunawann.blogspot.com/>Personal Website</a></li>
-  <li><a href="https://agritwins.blogspot.com/>AgriTwins. (still on-going)</a></li>
+  <li><a href="https://royalbreezeuk.blogspot.com/">RoyalBreezeUk</a></li>
+  <li><a href="https://ipangunawann.blogspot.com/">Personal Website</a></li>
+  <li><a href="https://agritwins.blogspot.com/">AgriTwins. (still on-going)</a></li>
 </ul>
