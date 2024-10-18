@@ -8,7 +8,7 @@ To use this code, you just go to the [index.xhtml](./index.xhtml) file and copy 
 If you want to contribute to this repository, I'm open it! I appreciate for someone who want to contribute!
 
 ## Website Example
-This is some few websote that I have been built with this template:
+This is some few website that I have been built with this template:
 <ul style="list-style:bullet;">
   <li><a href="https://royalbreezeuk.blogspot.com/">RoyalBreezeUk</a></li>
   <li><a href="https://ipangunawann.blogspot.com/">Personal Website</a></li>
